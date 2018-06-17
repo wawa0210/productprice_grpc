@@ -1,0 +1,16 @@
+﻿syntax = "proto3";
+
+package Eshop.ProductPrice;
+
+service IProductPrice{
+  rpc GetProduceprice(RequestProduct) returns (ReturnProduct){}
+} 
+
+message RequestProduct {
+  int32 productId = 1;
+}
+
+message ReturnProduct {
+  int32 productId = 1;
+  int32 Price = 2;
+}
