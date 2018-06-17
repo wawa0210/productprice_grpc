@@ -23,6 +23,7 @@ namespace Server
                 ClientImpl();
             });
 
+            Console.WriteLine("hello the world!");
 
             Console.ReadLine();
         }
