@@ -1,6 +1,7 @@
 ﻿using Eshop.ProductPrice;
 using Grpc.Core;
 using System;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Server
@@ -23,9 +24,13 @@ namespace Server
                 ClientImpl();
             });
 
-            Console.WriteLine("hello the world!");
+            while (true)
+            {
+                Console.WriteLine("hello the world!");
+                Thread.Sleep(100);
+            }
 
-            Console.ReadLine();
+
         }
 
         static async void ClientImpl()
