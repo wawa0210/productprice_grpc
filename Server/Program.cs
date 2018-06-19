@@ -15,7 +15,7 @@ namespace Server
             var server = new Grpc.Core.Server
             {
                 Services = { IProductPrice.BindService(new ProductPriceImpl()) },
-                Ports = { new ServerPort("localhost", port, ServerCredentials.Insecure) }
+                Ports = { new ServerPort("0.0.0.0", port, ServerCredentials.Insecure) }
             };
             server.Start();
 

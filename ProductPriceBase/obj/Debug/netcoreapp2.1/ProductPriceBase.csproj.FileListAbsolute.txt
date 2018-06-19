@@ -1,0 +1,9 @@
+/software/productprice_grpc/ProductPriceBase/bin/Debug/netcoreapp2.1/ProductPriceBase.deps.json
+/software/productprice_grpc/ProductPriceBase/bin/Debug/netcoreapp2.1/ProductPriceBase.dll
+/software/productprice_grpc/ProductPriceBase/bin/Debug/netcoreapp2.1/ProductPriceBase.pdb
+/software/productprice_grpc/ProductPriceBase/obj/Debug/netcoreapp2.1/ProductPriceBase.csprojAssemblyReference.cache
+/software/productprice_grpc/ProductPriceBase/obj/Debug/netcoreapp2.1/ProductPriceBase.csproj.CoreCompileInputs.cache
+/software/productprice_grpc/ProductPriceBase/obj/Debug/netcoreapp2.1/ProductPriceBase.AssemblyInfoInputs.cache
+/software/productprice_grpc/ProductPriceBase/obj/Debug/netcoreapp2.1/ProductPriceBase.AssemblyInfo.cs
+/software/productprice_grpc/ProductPriceBase/obj/Debug/netcoreapp2.1/ProductPriceBase.dll
+/software/productprice_grpc/ProductPriceBase/obj/Debug/netcoreapp2.1/ProductPriceBase.pdb

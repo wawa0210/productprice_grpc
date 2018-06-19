@@ -1,6 +1,7 @@
 FROM microsoft/dotnet:2.1-runtime AS base
 WORKDIR /app
 
+EXPOSE 80
 FROM microsoft/dotnet:2.1-sdk AS build
 WORKDIR /src
 COPY Client/ Client/

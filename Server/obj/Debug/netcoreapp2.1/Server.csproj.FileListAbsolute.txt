@@ -1,0 +1,14 @@
+/software/productprice_grpc/Server/bin/Debug/netcoreapp2.1/Server.deps.json
+/software/productprice_grpc/Server/bin/Debug/netcoreapp2.1/Server.runtimeconfig.json
+/software/productprice_grpc/Server/bin/Debug/netcoreapp2.1/Server.runtimeconfig.dev.json
+/software/productprice_grpc/Server/bin/Debug/netcoreapp2.1/Server.dll
+/software/productprice_grpc/Server/bin/Debug/netcoreapp2.1/Server.pdb
+/software/productprice_grpc/Server/bin/Debug/netcoreapp2.1/ProductPriceBase.dll
+/software/productprice_grpc/Server/bin/Debug/netcoreapp2.1/ProductPriceBase.pdb
+/software/productprice_grpc/Server/obj/Debug/netcoreapp2.1/Server.csprojAssemblyReference.cache
+/software/productprice_grpc/Server/obj/Debug/netcoreapp2.1/Server.csproj.CoreCompileInputs.cache
+/software/productprice_grpc/Server/obj/Debug/netcoreapp2.1/Server.AssemblyInfoInputs.cache
+/software/productprice_grpc/Server/obj/Debug/netcoreapp2.1/Server.AssemblyInfo.cs
+/software/productprice_grpc/Server/obj/Debug/netcoreapp2.1/Server.csproj.CopyComplete
+/software/productprice_grpc/Server/obj/Debug/netcoreapp2.1/Server.dll
+/software/productprice_grpc/Server/obj/Debug/netcoreapp2.1/Server.pdb
